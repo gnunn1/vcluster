@@ -1,0 +1,5 @@
+namespace: vcluster
+
+resources:
+  - ns.yaml
+  - anyuid.yaml
